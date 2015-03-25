@@ -29,6 +29,6 @@ plane using trilateration or triangulation.
 
 **Refrences & Helpfull Links:**
 
-*http://rvmiller.com/2013/05/part-1-wifi-based-trilateration-on-android/
-*http://ws2.binghamton.edu/fowler/Improving%20WLAN-Based%20Indoor%20Mobile%20Positioning%20Using%20Sparsity.pdf
-*https://www.youtube.com/watch?v=KSg2WN8EiKI
+* http://rvmiller.com/2013/05/part-1-wifi-based-trilateration-on-android/
+* http://ws2.binghamton.edu/fowler/Improving%20WLAN-Based%20Indoor%20Mobile%20Positioning%20Using%20Sparsity.pdf
+* https://www.youtube.com/watch?v=KSg2WN8EiKI
