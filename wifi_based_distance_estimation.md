@@ -3,7 +3,7 @@ How to Calculate Distance Using Wifi
 *This research is a work in progress. Here are our findings:*
 
 * We need three wifi access points.
-* The robot needs some device to be capable of receiving wifi signals and calculating the strength of the signal (in dB).
+* The robot needs some device capable of receiving wifi signals and calculating the strength of the signal (in dB).
 * We will use the formulas: FSPL:(dB) = 20log10(d)+20log10(f) -27.55 
 * units: MHz for frequency and meters for distance
 
@@ -29,8 +29,6 @@ plane using trilateration or triangulation.
 
 **Refrences & Helpfull Links:**
 
-http://rvmiller.com/2013/05/part-1-wifi-based-trilateration-on-android/
-
-http://ws2.binghamton.edu/fowler/Improving%20WLAN-Based%20Indoor%20Mobile%20Positioning%20Using%20Sparsity.pdf
-
-https://www.youtube.com/watch?v=KSg2WN8EiKI
+*http://rvmiller.com/2013/05/part-1-wifi-based-trilateration-on-android/
+*http://ws2.binghamton.edu/fowler/Improving%20WLAN-Based%20Indoor%20Mobile%20Positioning%20Using%20Sparsity.pdf
+*https://www.youtube.com/watch?v=KSg2WN8EiKI
