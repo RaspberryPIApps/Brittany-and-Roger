@@ -2,11 +2,13 @@ How to Calculate Distance Using Wifi
 =======================================================
 Note: this research is a work in progress. Here are our findings:
 
-a. we need three wifi access points.
-b. The robot needs some device to be capable of receiving wifi signals and
-calculating the strength of the signal (in dB).
-c. We will use the formulas: FSPL:(dB) = 20log10(d)+20log10(f) -27.55 
-d. units: MHz for frequency and meters for distance
+* We need three wifi access points.
+
+* The robot needs some device to be capable of receiving wifi signals and calculating the strength of the signal (in dB).
+
+* We will use the formulas: FSPL:(dB) = 20log10(d)+20log10(f) -27.55 
+
+* units: MHz for frequency and meters for distance
 
 PROBLEMS: 
 a. FSPL requires free-space for calculation
