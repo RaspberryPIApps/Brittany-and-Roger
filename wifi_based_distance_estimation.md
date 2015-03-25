@@ -14,7 +14,7 @@ b. We should sample the signal strength +10 times to account
 for interference
 
 1. python code to calculate the distance from ONE access point:
-```linux
+```python
 import math
 freqInMHz = somenumber
 levelinDb = somenumberalso
@@ -23,7 +23,7 @@ results = (27.55 - (20 * math.log10(freqInMHz) + math.fabs(levelInDb)) / 20.0
 math.pow(10.0, x)
 
 print results
-```linux
+```
 
 2. This code would be expanded to draw results for the next two access points.
 Once we have all three distance, we can estimate the robot's position in the 
