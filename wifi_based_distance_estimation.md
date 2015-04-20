@@ -27,7 +27,7 @@ This code would be expanded to draw results for the next two access points.
 Once we have all three distance, we can estimate the robot's position in the 
 plane using trilateration or triangulation.
 
-**Refrences & Helpfull Links:**
+**Refrences & Helpful Links:**
 
 * http://rvmiller.com/2013/05/part-1-wifi-based-trilateration-on-android/
 * http://ws2.binghamton.edu/fowler/Improving%20WLAN-Based%20Indoor%20Mobile%20Positioning%20Using%20Sparsity.pdf
