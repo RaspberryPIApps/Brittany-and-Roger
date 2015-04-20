@@ -35,7 +35,7 @@ def Move(command):
     command=command.upper()
     if command[0]=="F":
         #forward
-        fd(bob,round(int(command[1:]),-1))
+        fd(bob,int(command[1:]))
     elif command[0]=="R":
         #right wheel moves, left wheel holds
         print "placeholder"
@@ -44,7 +44,7 @@ def Move(command):
         print "placeholder"
     elif command[0]=="T":
         #twist
-        rt(bob,round(int(command[1:]),-1))
+        rt(bob,int(command[1:]))
     elif command[0]=="P":
         #pendown, penup
         if int(command[1])==1:
